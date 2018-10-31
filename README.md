@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from White et al., "A high-resolution mRNA expression time course of embryonic development in zebrafish". eLife, 2017. http://dx.doi.org/10.7554/eLife.30860
+
 Notes to recreate the analysis in White et al. 2017
 
 ### Contents
